@@ -1,0 +1,15 @@
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\bin\Debug\net8.0\C2S.Business.deps.json
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\bin\Debug\net8.0\C2S.Business.dll
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\bin\Debug\net8.0\C2S.Business.pdb
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\bin\Debug\net8.0\C2S.Data.dll
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\bin\Debug\net8.0\C2S.Data.pdb
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.csproj.AssemblyReference.cache
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.AssemblyInfo.cs
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Busi.8ABAA853.Up2Date
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.dll
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\refint\C2S.Business.dll
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\C2S.Business.pdb
+C:\Users\Abdulrahman\source\repos\C2S\C2S\C2S.Business\obj\Debug\net8.0\ref\C2S.Business.dll

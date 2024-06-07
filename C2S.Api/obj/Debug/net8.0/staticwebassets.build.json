@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQPIbERAHDTT70Dbw/vHTMf2gS8MebdE+waK5x0v+MY=",
+  "Source": "C2S.Api",
+  "BasePath": "_content/C2S.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
